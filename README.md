@@ -19,7 +19,6 @@
 
   <h2>my github status.</h2>
   <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=YumiClmpn&amp;theme=default&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="YumiClmpn&#39;s Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YumiClmpn&amp;theme=default&amp;hide_border=true" alt="YumiClmpn&#39;s Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiClmpn&amp;theme=default&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="YumiClmpn&#39;s Top Languages">
   
