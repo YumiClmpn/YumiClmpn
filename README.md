@@ -9,7 +9,11 @@
   <br>
     
   <div align = "center" width: 60%;>
-    <img src='languages.png'>
+    <img src='html.png' style='height: 30px;   margin-right: 10px; margin-bottom: 10px;'>
+    <img src='css.png' style='height: 30px;   margin-right: 10px; margin-bottom: 10px;'>
+    <img src='javascript.png' style='height: 30px;   margin-right: 10px; margin-bottom: 10px;'>
+    <img src='c.png' style='height: 30px;   margin-right: 10px; margin-bottom: 10px;'>
+    <img src='python.png' style='height: 30px;   margin-right: 10px; margin-bottom: 10px;'>
   </div>
     
   <br>
@@ -17,8 +21,7 @@
   <div align = "center" width: 60%;>
     <h2>my github status.</h2>
     <div style="display: flex; justify-content: space-between;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YumiClmpn&amp;theme=default&amp;hide_border=true" alt="YumiClmpn&#39;s Streak">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YumiClmpn&amp;theme=default&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="YumiClmpn&#39;s Top Languages">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YumiClmpn&theme=graywhite&hide_border=true" alt="GitHub Streak" /></a>
     </div>
   </div>
 
