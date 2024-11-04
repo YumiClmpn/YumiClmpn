@@ -30,7 +30,7 @@
   <div align = "center" width: 60%;>
     <h2>my other status.</h2>
     <div style="display: flex; justify-content: space-between;">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/657d28ad5145316d250d8a14?variant=light" alt="roadmap.sh"/></a>
+      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/657d28ad5145316d250d8a14?variant=light&roadmaps=python%2Cjavascript" alt="roadmap.sh"/></a>
       <a href="https://app.daily.dev/yumiclmpn"><img src="./devcard.png" width="300" height="392" alt="Yumi Calumpiano's Dev Card"/></a>
     </div>
   </div>
