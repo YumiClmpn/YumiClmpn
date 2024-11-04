@@ -1,7 +1,7 @@
 <body>
   <div align="center">
     <img src="yumi.jpg" width='300px' alt="Yumi" />
-    <h2 style='margin: 0;'>mabuhay, ako si yumi.</h2>
+    <h2 style='margin: 0;'>mabuhay! ako si yumi.</h2>
     <h3> <a class="webLink" style='font-size: 24px; font-weight: bold;' href="https://bento.me/yumiclmpn" target="_blank">my bento.</a> </h3>
     <h2>languages i'm currently learning.</h2>
   </div>
