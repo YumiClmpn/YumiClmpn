@@ -6,8 +6,6 @@
     <h2>languages i'm currently learning.</h2>
   </div>
 
-  <br/>
-    
   <div align = "center" width: 60%;>
     <img src='html.png' style='height: 30px;   margin-right: 10px; margin-bottom: 10px;'>
     <img src='css.png' style='height: 30px;   margin-right: 10px; margin-bottom: 10px;'>
