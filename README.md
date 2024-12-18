@@ -1,8 +1,7 @@
 
   <div align="center">
     <h1 style="color: #3792CB;" >YUMI C.</h1>
-    <h2 style='margin: 0;'>mabuhay! ako si yumi.</h2>
-    <h2>languages i'm currently learning.</h2>
+    <h2 style='margin: 0;'>mabuhay! ako si yumi and these are the languages i'm currently learning.</h2>
   </div>
 
   <div align="center" width: 60%;>
