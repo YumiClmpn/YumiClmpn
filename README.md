@@ -13,5 +13,5 @@
   </div>
 
   <div align="right">
-    <h3> <a class="webLink" style='font-size: 24px; font-weight: bold;' href="https://bento.me/yumiclmpn" target="_blank">know me more?</a> </h3>
+    <h3> <a class="webLink" style='font-size: 24px; font-weight: bold;' href="https://yumiclmpn.github.io/my-website/" target="_blank">know me more?</a> </h3>
   </div>
